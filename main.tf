@@ -3,7 +3,7 @@ resource "aws_instance" "ec2" {
  instance_type = "t2.micro" 
  key_name = "id_rsa_key"
  tags = {
-   Name = "TF-Jenkins"
+   Name = "New-Jenkins"
    }
 }
 
