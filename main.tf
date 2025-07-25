@@ -8,6 +8,7 @@ resource "aws_instance" "ec2" {
 }
 
 
+
 resource "aws_iam_user" "u1" {
  name = "reed"
 }
