@@ -10,7 +10,7 @@ resource "aws_iam_user" "u1" {
  name = "reed"
 }
 
-resource "aws_iam_user" "u1" {
+resource "aws_iam_user" "u2" {
  name = "victor"
 }
 
